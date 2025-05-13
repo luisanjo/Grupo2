@@ -1,0 +1,2 @@
+Select *
+From movies.tag
